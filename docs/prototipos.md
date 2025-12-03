@@ -6,25 +6,26 @@ Esta seção apresenta os protótipos de alta fidelidade desenvolvidos para o si
 Acesso para todos os uusários que entrarem no site, é a parte institucional
 e informativa
 
-![Tela de Login](/img/INDEX (SITE INFORMATIVO).png)
+![Tela de Login](/img/Tela1.png)
 
 ## 6.2 Página Inicial (Prestadores)
 Visão geral com dashboards, gráficos e informações com uso restrito para os prestadores
 
-![Página Inicial](/img/DASHBOARD PRINCIPAL-.png)
+![Página Inicial](/img/Tela2.png)
 
 ## 6.3 Página de Serviços Cadastrados
 Listagem de serviços ofertados pelo prestador, onde pode cadastrar, visualizar, atualizar e excluir.
 
-![Catálogo de Produtos](/img/tela3.png)
+![Catálogo de Produtos](/img/Tela3.png)
 
 ## 6.4 Páginas
 Área destinada a notícias sobre lançamentos, eventos e promoções ativas.
 
-![Novidades](/img/novidades.png)
+![Novidades](/img/Tela4.png)
 
 ## 6.5 Sobre a Loja
 Informações institucionais sobre a missão e visão da GameStore.
 
 
-![Sobre a Loja](/img/sobre.png)
+![Sobre a Loja](/img/Tela5.png)
+
