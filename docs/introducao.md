@@ -36,29 +36,28 @@ Entre os objetivos específicos, destacam-se:
 
 Este projeto visa desenvolver um sistema completo de intermediação e gestão de serviços, incluindo:
 
-* Cadastro de clientes, prestadores e administradores.
-* Solicitação de serviços por parte do cliente.
-* Criação e envio de orçamentos detalhados pelo prestador.
-* Cadastro e gestão de produtos utilizados no serviço ou vendidos separadamente.
-* Controle de atendimentos em aberto, em andamento e concluídos.
-* Dashboard para prestadores, com métricas, gráficos e contas a receber.
-* Histórico de serviços para clientes e prestadores.
-* Sistema de avaliação e feedback.
-* Área administrativa para acompanhamento global da plataforma.
-* Notificações e acompanhamento do fluxo de trabalho em tempo real.
+- Cadastro de clientes, prestadores e administradores.
+- Solicitação de serviços por parte do cliente.
+- Criação e envio de orçamentos detalhados pelo prestador.
+- Cadastro e gestão de produtos utilizados no serviço ou vendidos separadamente.
+- Controle de atendimentos em aberto, em andamento e concluídos.
+- Dashboard para prestadores, com métricas, gráficos e contas a receber.
+- Histórico de serviços para clientes e prestadores.
+- Sistema de avaliação e feedback.
+- Área administrativa para acompanhamento global da plataforma.
+- Notificações e acompanhamento do fluxo de trabalho em tempo real.
 
 O sistema é voltado tanto para serviços simples (manutenção, limpeza, montagem, reparos) quanto para prestadores especializados ou lojas que prestam serviços e vendem produtos.
-
 
 ---
 
 # 1.3 Definições, Acrônimos e Abreviações
 
-* Dashboard: Painel principal com acesso rápido às funções.
-* PIX: Método de pagamento instantâneo nacional.
-* Portfólio: Coleção de imagens e serviços realizados por um profissional.
-* Freelancer: Prestador de serviços autônomo.
-* CRUD: Método para manipulação de dados que consiste em criar, ler, atualizar e excluir.
+- Dashboard: Painel principal com acesso rápido às funções.
+- PIX: Método de pagamento instantâneo nacional.
+- Portfólio: Coleção de imagens e serviços realizados por um profissional.
+- Freelancer: Prestador de serviços autônomo.
+- CRUD: Método para manipulação de dados que consiste em criar, ler, atualizar e excluir.
 
 ---
 
@@ -73,4 +72,4 @@ O sistema atende três grupos principais:
    Profissionais autônomos ou lojas especializadas que realizam serviços, emitem orçamentos, cadastram produtos, controlam agenda e acompanham desempenho por meio do dashboard.
 
 3. **Administradores da Plataforma (ADM):**  
-    Responsáveis por gerenciar a plataforma, validar cadastros de prestadores, acompanhar relatórios, supervisionar o funcionamento geral e garantir que a experiência dos usuários seja segura e de qualidade.
+   Responsáveis por gerenciar a plataforma, validar cadastros de prestadores, acompanhar relatórios, supervisionar o funcionamento geral e garantir que a experiência dos usuários seja segura e de qualidade.

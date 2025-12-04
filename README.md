@@ -1,2 +1,3 @@
-# Mão na Massa
-O **Mão na Massa** é um sistema de gestão e intermediação de serviços, desenvolvido para organizar e facilitar a comunicação entre **clientes**, **prestadores de serviços** e **administradores da plataforma**. O sistema centraliza solicitações, orçamentos, produtos, pagamentos, avaliações e todas as interações.
+# doc_devsis1_mao_massa
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/lightdsgn/doc_devsis1_mao_massa)

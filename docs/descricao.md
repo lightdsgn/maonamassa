@@ -17,7 +17,7 @@ Entre os principais benefícios do sistema estão:
 ### 2.1.1 Canvas do Projeto
 Abaixo está a estrutura do Business Model Canvas definida para o projeto:
 
-![Parte 1 do Canvas](/public/img/CANVASSEBRAE.png)  
+![Parte 1 do Canvas](/CANVASSEBRAE.png)  
 *Imagem: Canvas Sebrae*
 
 ---

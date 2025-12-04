@@ -5,8 +5,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.1 Planejamento do Projeto
+
 **Duração:** 1 semana  
 **Atividades:**
+
 - Definição do escopo e dos objetivos do sistema.
 - Identificação dos tipos de usuários (Cliente, Prestador, ADM).
 - Levantamento de requisitos funcionais e não funcionais.
@@ -16,8 +18,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.2 Análise e Modelagem
+
 **Duração:** 1 semana  
 **Atividades:**
+
 - Criação do mini-mundo detalhado.
 - Definição da arquitetura do sistema.
 - Modelagem do banco de dados.
@@ -27,8 +31,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.3 Desenvolvimento Inicial (Back-end / Core do Sistema)
+
 **Duração:** 2 semanas  
 **Atividades:**
+
 - Implementação do cadastro e autenticação de usuários.
 - Sistema de permissões: Cliente, Prestador e ADM.
 - Estrutura básica de solicitações de serviços.
@@ -38,8 +44,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.4 Desenvolvimento das Funcionalidades do Prestador
+
 **Duração:** 2 semanas  
 **Atividades:**
+
 - Criação e envio de orçamentos completos.
 - Gestão de produtos (inclusão, edição, estoque).
 - Dashboard do prestador (solicitações, métricas, contas a receber).
@@ -48,8 +56,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.5 Desenvolvimento da Área do Cliente
+
 **Duração:** 2 semanas  
 **Atividades:**
+
 - Tela para solicitar serviços (com anexos).
 - Visualização e aprovação/rejeição de orçamentos.
 - Consulta de históricos e serviços concluídos.
@@ -58,8 +68,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.6 Módulo Administrativo (ADM)
+
 **Duração:** 1 semana  
 **Atividades:**
+
 - Supervisão de usuários (ativar/desativar contas).
 - Acompanhamento de solicitações e movimentação geral.
 - Ferramentas de gerenciamento de categorias.
@@ -68,8 +80,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.7 Interface, Protótipos e Ajustes de UX/UI
+
 **Duração:** 1 semana  
 **Atividades:**
+
 - Refinamento das telas no Figma.
 - Ajustes de navegação, padronização visual e responsividade.
 - Testes de usabilidade.
@@ -77,8 +91,10 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.8 Testes Gerais e Correções
+
 **Duração:** 1 semana  
 **Atividades:**
+
 - Testes de integração entre módulos.
 - Revisão de fluxos de orçamentos, solicitações e produtos.
 - Correções de bugs.
@@ -87,11 +103,12 @@ A seguir está o cronograma detalhado para o desenvolvimento do sistema **Mão n
 ---
 
 ## 7.9 Documentação, Deploy e Entrega Final
+
 **Duração:** 1 semana  
 **Atividades:**
+
 - Documentação completa no VitePress.
 - Publicação do site na Vercel.
 - Organização dos links (protótipo, diagramas, repo).
 - Apresentação final do sistema.
 - Entrega oficial do projeto conforme as diretrizes da disciplina.
-
